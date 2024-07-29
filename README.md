@@ -38,8 +38,11 @@ Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers m
             <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://ayushverma135.github.io/My-Portfolio/">My Portfolio</a>.</li>
             <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
         </ul>
-        <br />
+        <h2>Publications</h2>
+    <a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale & SARSAWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a>
     </div>
+    <br>
+    <br>
 ```py
 About Me = [
     "I'm a student with a passion for coding and a journey of continuous learning.",
