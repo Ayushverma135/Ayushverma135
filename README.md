@@ -19,7 +19,7 @@
         <p>
             <strong>
                 I am a Passionate about Artificial Intelligence and Machine Learning. With hands-on experience in Android development, Frontend deployment as well, Proficient in algorithm design, data structures, and coding challenges. Dedicated problem solver with a 5-star coder
-rating in Python, C, and general problem solving, recognized for solving over 250
+rating in Python, C, and general problem solving, recognized for solving over 500
 LeetCode questions.
 
 Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter, Flask, NLTk, Dash and Pandas.
