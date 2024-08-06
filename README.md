@@ -5,7 +5,7 @@
     </div>
     <!-- typing effect -->
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Verma;A+Frontend+Developer;+An+Android+Developer;A+Cloud+Learner+and;AI-ML+Enthusiast...." alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ayush+Verma;A+Data+Analyst;An+Android+Developer;A+DevOps+Enthusiast;An+Artificial+Intelligence+Expert;A+Cloud+Enthusiast+and;A+Machine+Learning+Expert" alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://www.linkedin.com/in/ayush-verma-15912a229/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
@@ -18,20 +18,19 @@
         <br />
         <p>
             <strong>
-                I am a Passionate about Artificial Intelligence and Machine Learning. With hands-on experience in Android development, Frontend deployment as well, Proficient in algorithm design, data structures, and coding challenges. Dedicated problem solver with a 5-star coder
-rating in Python, C, and general problem solving, recognized for solving over 500
-LeetCode questions.
+             As a Computer Science and Engineering Student with a Fervent Passion for Technology and Innovation. I'm Proficient in Data Analytics, Machine Learning, AWS, and DevOps, I am also an enthusiast in Web and Android Development. My technical expertise spans programming languages such as Python, Java, C/C++, SQL,Kotlin, Dart and SAS, and includes advanced skills with tools and technologies like NLTK, Dash, Pandas, Flask, OpenCV, Flutter, Keras, Docker, Kubernetes and AWS services including S3, Lambda, and Athena. I'm well-versed in ETL processes, QuickSight, and SageMaker and web technologies including HTML, CSS, Bootstrap, React and JS, which empowers me to tackle a wide range of complex challenges effectively.
 
-Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter, Flask, NLTk, Dash and Pandas.
+My strengths in cloud computing and data analysis are demonstrated through my work with CloudSim to optimize VM resources and improve system performance.
+In my work, I focus on designing and deploying machine learning models to extract actionable insights and drive data-informed decision-making. My experience in cloud architecture allows me to build scalable and efficient solutions using AWS and other leading platforms. Additionally, I am passionate about creating dynamic web and mobile applications, ensuring both functionality and a great user experience. My expertise in ETL processes further enhances my ability to manage and transform data for improved analysis and outcomes.
 
- Committed to continuous learning and innovation for effective problem solving. I'm committed to pushing boundaries, embracing new opportunities, and delivering impactful solutions that merge technology with creativity. I stay at the forefront of the field, while my holistic skill set ensures the success of every project.
+Noteworthy achievements include being a finalist at Woodpecker’s Hackathon for designing a disaster prediction system, solving over 500 coding problems with a 61.27% acceptance rate, earning 5-star ratings in Python Programming and Problem Solving on HackerRank, and receiving SAS Programming Certification from Internshala Trainings.
             </strong>
         </p>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: SAS Programming, Athena, Crawler, S3...etc .</li>
-            <li>🌱 <b>I’m currently learning</b>:SAS Programming and Data Analytics using AWS</li>
-            <li>💬 <b>Ask me about</b>: Web Development, SAS Programmer, Data Analyst, Android App Developments and Competetive Programming.</li>
+            <li>🔭 <b>I’m currently working on</b>: SAS Programming, QuickSight, Athena, Sagemaker, S3...etc .</li>
+            <li>🌱 <b>I’m currently learning</b>:SAS Programming, Cloud Automation and Data Analytics using AWS</li>
+            <li>💬 <b>Ask me about</b>: Machine Learning, SAS Programming, Docker, Artificial Intelligence, Web Development, Data Analysis, Android App Development and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.
             </li>
@@ -176,3 +175,14 @@ About Me = [
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
 </p>
+
+
+
+
+
+
+<!-- I am a Passionate about Artificial Intelligence and Machine Learning. With hands-on experience in Android development, Frontend deployment as well, Proficient in algorithm design, data structures, and coding challenges. Dedicated problem solver with a 5-star coder -->
+<!-- rating in Python, C, and general problem solving, recognized for solving over 500 -->
+<!-- LeetCode questions. -->
+
+<!-- Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter, Flask, NLTk, Dash and Pandas.Committed to continuous learning and innovation for effective problem solving. I'm committed to pushing boundaries, embracing new opportunities, and delivering impactful solutions that merge technology with creativity. I stay at the forefront of the field, while my holistic skill set ensures the success of every project. -->
