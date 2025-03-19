@@ -37,6 +37,10 @@ Noteworthy achievements include being winning i.Mobilothon 4.0, ranking as a Top
         </ul>
         <h2>Publications</h2>
     <a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale & SARSAWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a>
+    <br>
+    <a href="https://www.ijfmr.com/research-paper.php?id=34840">QWhale and SARSAWhale: Energy-Efficient and Energy-Aware Algorithms for High-Load Cloud Environments</a>
+    <br>
+    <a href="https://www.ijfmr.com/research-paper.php?id=37652">Crystal Quantum Shield (CQS): A Post-Quantum Cybersecurity Framework for API and Data Protection</a>
     </div>
     <br>
     <br>
