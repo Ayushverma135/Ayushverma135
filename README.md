@@ -17,19 +17,18 @@
         <br />
         <p>
             <strong>
-             As a Computer Science and Engineering Student with a Fervent Passion for Technology and Innovation. I'm Proficient in Data Analytics, Machine Learning, AWS, and DevOps, I am also an enthusiast in Web and Android Development. My technical expertise spans programming languages such as Python, Java, C/C++, SQL,Kotlin, Dart and SAS, and includes advanced skills with tools and technologies like NLTK, Dash, Pandas, Flask, OpenCV, Flutter, Keras, Docker, Kubernetes and AWS services including S3, Lambda, and Athena. I'm well-versed in ETL processes, QuickSight, and SageMaker and web technologies including HTML, CSS, Bootstrap, React and JS, which empowers me to tackle a wide range of complex challenges effectively.
+             As a Computer Science and Engineering Graduate with a Fervent Passion for Technology and Innovation. I specialize in Data Analytics, Machine Learning, AWS, and DevOps, while also exploring Web and Android Development. Proficient in Python, Java, C/C++, SQL, HTML, CSS, JavaScript, and SAS, I leverage advanced tools like NLTK, Dash, Pandas, Flask, OpenCV, TensorFlow, Keras, and a suite of AWS services (S3, Lambda, Athena, QuickSight, SageMaker, Bedrock, Neptune) to design scalable, efficient solutions which empowers me to tackle a wide range of complex challenges effectively.
 
-My strengths in cloud computing and data analysis are demonstrated through my work with CloudSim to optimize VM resources and improve system performance.
-In my work, I focus on designing and deploying machine learning models to extract actionable insights and drive data-informed decision-making. My experience in cloud architecture allows me to build scalable and efficient solutions using AWS and other leading platforms. Additionally, I am passionate about creating dynamic web and mobile applications, ensuring both functionality and a great user experience. My expertise in ETL processes further enhances my ability to manage and transform data for improved analysis and outcomes.
+Leveraging advanced cloud computing and data analytics, I have effectively utilized CloudSim to optimize virtual machine resources and boost system performance. I design and deploy robust machine learning models that extract actionable insights to drive data-informed decision-making. With extensive experience in cloud architecture, I build scalable, efficient solutions on AWS and other top platforms, while also creating dynamic web and mobile applications that ensure seamless user experiences. My proficiency in ETL processes further enables me to manage and transform complex data into valuable insights for strategic outcomes.
 
-Noteworthy achievements include being a finalist at Woodpecker’s Hackathon for designing a disaster prediction system, solving over 500 coding problems with a 61.27% acceptance rate, earning 5-star ratings in Python Programming and Problem Solving on HackerRank, and receiving SAS Programming Certification from Internshala Trainings.
+Noteworthy achievements include being winning i.Mobilothon 4.0, ranking as a Top 10 Finalist in Flipkart Grid 6.0, finalist at Woodpecker’s Hackathon for designing a disaster prediction system, solving over 500 coding problems with a 61.27% acceptance rate, earning 5-star ratings in Python Programming and Problem Solving on HackerRank, and receiving SAS Programming Certification from Internshala Trainings.
             </strong>
         </p>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: SAS Programming, QuickSight, Athena, Sagemaker, S3...etc .</li>
-            <li>🌱 <b>I’m currently learning</b>:SAS Programming, Cloud Automation and Data Analytics using AWS</li>
-            <li>💬 <b>Ask me about</b>: Machine Learning, SAS Programming, Docker, Artificial Intelligence, Web Development, Data Analysis, Android App Development and Competetive Programming.</li>
+            <li>🔭 <b>I’m currently working on</b>: Knowledge Graphs, Advanced RAG, Custom Components of Langflow, Langchain...etc.</li>
+            <li>🌱 <b>I’m currently learning</b>: Agentic Workflows, Bedrock Integration in Langflow, Using Custom Components of Langflow in various applications.</li>
+            <li>💬 <b>Ask me about</b>: Machine Learning, SAS Programming, Docker, Langflow, Langchain, AI Agents, Artificial Intelligence, Web Development, Data Analysis, Android App Development and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.
             </li>
@@ -41,14 +40,7 @@ Noteworthy achievements include being a finalist at Woodpecker’s Hackathon for
     </div>
     <br>
     <br>
-```py
-About Me = [
-    "I'm a student with a passion for coding and a journey of continuous learning.",
-    "Proficient in languages like Python,C/C++,Java,Kotlin,Dart as well as web technologies including HTML, CSS, Bootstrap, React and JS.",
-    "Dedicated to exploring new concepts in coding every day.",
-    "My world is woven with lines of code, and I'm on a quest to turn ideas into reality. 💻✨"
-]
-```
+    
 <div align="center">
     <h1>🧠Skills Set👻</h1>
     <h4>Demonstrated expertise in several key technologies. 🛰 I've utilized or been engaged with.👨‍💻📈</h4>
