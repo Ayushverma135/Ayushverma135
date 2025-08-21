@@ -15,32 +15,59 @@
 
 <div align="left">
         <br />
+        <h1>💡 About Me</h1>
         <p>
-            <strong>
-             As a Computer Science and Engineering Graduate with a Fervent Passion for Technology and Innovation. I specialize in Data Analytics, Machine Learning, AWS, and DevOps, while also exploring Web and Android Development. Proficient in Python, Java, C/C++, SQL, HTML, CSS, JavaScript, and SAS, I leverage advanced tools like NLTK, Dash, Pandas, Flask, OpenCV, TensorFlow, Keras, and a suite of AWS services (S3, Lambda, Athena, QuickSight, SageMaker, Bedrock, Neptune) to design scalable, efficient solutions which empowers me to tackle a wide range of complex challenges effectively.
+            <strong>        
+I am a Software Engineer exploring the core of LLMs, Generative AI, and Multi-Agent Systems, with a strong foundation in Data Analytics, Machine Learning, AWS, and DevOps, alongside experience in Web and Android Development. Proficient in Python, Java, JavaScript, SQL, SAS, and databases like MongoDB, Neo4j, Qdrant, I specialize in building scalable, efficient solutions that combine cloud-native design with state-of-the-art AI tools.
 
-Leveraging advanced cloud computing and data analytics, I have effectively utilized CloudSim to optimize virtual machine resources and boost system performance. I design and deploy robust machine learning models that extract actionable insights to drive data-informed decision-making. With extensive experience in cloud architecture, I build scalable, efficient solutions on AWS and other top platforms, while also creating dynamic web and mobile applications that ensure seamless user experiences. My proficiency in ETL processes further enables me to manage and transform complex data into valuable insights for strategic outcomes.
-
-Noteworthy achievements include being winning i.Mobilothon 4.0, ranking as a Top 10 Finalist in Flipkart Grid 6.0, finalist at Woodpecker’s Hackathon for designing a disaster prediction system, solving over 500 coding problems with a 61.27% acceptance rate, earning 5-star ratings in Python Programming and Problem Solving on HackerRank, and receiving SAS Programming Certification from Internshala Trainings.
+My expertise extends across Pytorch, TensorFlow, Langflow, Langchain, Langgraph, Autogen, and MCP, enabling me to design advanced RAG pipelines, AI agents, and multi-cloud architectures. With AWS services (Athena, S3, Lambda, QuickSight, Glue, Bedrock, Neptune, SageMaker), I optimize data workflows and deploy AI-driven applications that deliver measurable impact.
             </strong>
         </p>
+        <h1>🚀 What I Do</h1>
+        <ul>
+            <li> <b>Develop and optimize RAG pipelines (e.g., CFM-RAG with multimodal retrieval, improving accuracy by 35%).</b></li>
+            <li> <b>Engineer multi-agent systems (e.g., Planner and Orchestrator Agents at Volkswagen, reducing misrouted tickets by 30%).</b></li>
+            <li> <b>Design cloud-native solutions with AWS, cutting deployment costs and boosting throughput by up to 40%.</b></li>
+            <li> <b>Design and deploy robust Machine Learning models that extract actionable insights from complex data to drive intelligent decision-making.</b></li>
+        </ul>
+        <h1>🏆 Highlights & Achievements</h1>
+        <ul>
+            <li> <b>🥇 1st Place (National Winner) –</b> i.Mobilothon 4.0 (EV battery optimization with VWITS).</li>
+            <li> <b>🏅 Top 10 Finalist –</b> Flipkart Grid 6.0 (Crystal Quantum Shield for API Security).</li>
+            <li> <b>🎯 Finalist –</b> Woodpecker’s Hackathon (real-time disaster prediction system).</li>
+            <li> <b>📊 500+ coding problems solved with a 61.27% acceptance rate on LeetCode & HackerRank.</b></li>
+            <li> <b>🎓 Certified in SAS Programming (Internshala, Score: 84%).</b></li>
+        </ul>
+        <h1>📌 Currently</h1>
+        <ul>
+            <li> <b>🔭 Working on:</b> Knowledge Graphs, Advanced RAG, Langflow Custom Components, Langchain/Agentic Workflows.</li>
+            <li> <b>🌱 Learning:</b> Bedrock Integration in Langflow, Multi-Agent Orchestration, Custom AI Components.</li>
+        </ul>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: Knowledge Graphs, Advanced RAG, Custom Components of Langflow, Langchain...etc.</li>
-            <li>🌱 <b>I’m currently learning</b>: Agentic Workflows, Bedrock Integration in Langflow, Using Custom Components of Langflow in various applications.</li>
-            <li>💬 <b>Ask me about</b>: Machine Learning, SAS Programming, Docker, Langflow, Langchain, AI Agents, Artificial Intelligence, Web Development, Data Analysis, Android App Development and Competetive Programming.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.
-            </li>
-            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://ayushverma135.github.io/My-Portfolio/">My Portfolio</a>.</li>
-            <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
+            <li> <b>💬 Ask me about:</b> AI Agents, RAG Optimization, Reingforcement Learning, Knowledge graph, Langflow, Langchain, Langgraph, Docker, AWS, Competitive Programming.</li>
+            <li> <b>🤝 Open for:</b> Contributions in Open Source Projects.</li>
+            <li> <b>👨‍💻 My Portfolio</b>: <a href="https://ayushverma135.github.io/My-Portfolio/">Portfolio</a>.</li>
+            <li><b>⚡ Fun Fact:</b> I believe debugging is 50% logic, 50% detective work.</li>
         </ul>
-        <h2>Publications</h2>
-    <a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale & SARSAWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a>
-    <br>
-    <a href="https://www.ijfmr.com/research-paper.php?id=34840">QWhale and SARSAWhale: Energy-Efficient and Energy-Aware Algorithms for High-Load Cloud Environments</a>
-    <br>
-    <a href="https://www.ijfmr.com/research-paper.php?id=37652">Crystal Quantum Shield (CQS): A Post-Quantum Cybersecurity Framework for API and Data Protection</a>
+    <h1>Publications</h1>
+    <ul>
+      <li>
+        <a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">
+          QWhale & SARSAWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling
+        </a>
+      </li>
+      <li>
+        <a href="https://www.ijfmr.com/research-paper.php?id=34840">
+          QWhale and SARSAWhale: Energy-Efficient and Energy-Aware Algorithms for High-Load Cloud Environments
+        </a>
+      </li>
+      <li>
+        <a href="https://www.ijfmr.com/research-paper.php?id=37652">
+          Crystal Quantum Shield (CQS): A Post-Quantum Cybersecurity Framework for API and Data Protection
+        </a>
+      </li>
+    </ul>
     </div>
     <br>
     <br>
