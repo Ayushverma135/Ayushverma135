@@ -86,31 +86,37 @@ My expertise extends across Pytorch, TensorFlow, Langflow, Langchain, Langgraph,
 
 <div align="center">
     <h3><b>Programming Languages</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="html5" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="CSS3" alt="css3"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C Programming" alt="html5" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="css3"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://static.javatpoint.com/core/images/java-logo1.png" title="Java" alt="java"  height="40"/></a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank"><img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" title="Java" alt="java"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" title="Kotlin" alt="Kotlin"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" title="Dart" alt="Dart"  height="40"/></a></code>&nbsp;&nbsp;
  <code><a href="#" target="_blank"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/dab5a445-c24b-466c-a5c8-4f70117f7be3" title="Dart" alt="SAS"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://www.pngfind.com/pngs/m/168-1683198_node-js-logo-png-transparent-png.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
      <code><a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" title="Open CV" alt="open cv" height="40"/></a></code>&nbsp;
       <code><a href="#" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" title="Numpy" alt="numpy" height="40"/></a></code>&nbsp;
      <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" title="Tensorflow" alt="tensorflow" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoAubNiI_aSMGINDD6rQZMepg417jWh7UMQ&s" title="Scipy" alt="scipy" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtD77NqsHehyobngnMQaSRAQc41uDJq-OyQ&s" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" title="Seaborn" alt="seaborn" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" title="Scikit Learn" alt="sklearn" height="40"/></a></code>&nbsp;
+     <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTY3DN8ovKwYOsSZNrQgMbpbAEon9qzx46A&s" title="Scikit Learn" alt="sklearn" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" title="Flutter" alt="Flutter" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" title="Pandas" alt="pandas" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/dab5a445-c24b-466c-a5c8-4f70117f7be3" title="Dart" alt="SAS"  height="40"/></a></code>&nbsp;&nbsp;
-
+     <code><a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/ceef895e-6fcb-48dc-a742-a7f8213b0f3a" title="Pandas" alt="pandas" height="40"/></a></code>&nbsp;
+     <code><a href="#" target="_blank"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/dab5a445-c24b-466c-a5c8-4f70117f7be3" title="SAS" alt="SAS"  height="40"/></a></code>&nbsp;&nbsp;
+     <code><a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/85702467?v=4" title="Langflow" alt="Langflow"  height="40"/></a></code>&nbsp;&nbsp;
+     <code><a href="#" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/langchain.png" title="Langchain" alt="Langchain"  height="40"/></a></code>&nbsp;&nbsp;
+     <code><a href="#" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/langgraph.png" title="Langgraph" alt="Langgraph"  height="40"/></a></code>&nbsp;&nbsp;
+     <code><a href="#" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/mcp.png" title="MCP" alt="MCP"  height="40"/></a></code>&nbsp;&nbsp;
+     <code><a href="#" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/046/861/646/non_2x/gemini-icon-on-a-transparent-background-free-png.png" title="Gemini" alt="Gemini"  height="40"/></a></code>&nbsp;&nbsp;
+ <code><a href="#" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/crewai-brand-color.png" title="Crew ai" alt="Crew ai"  height="40"/></a></code>&nbsp;&nbsp;
+ <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnp17Nkv9Z4r93vz9C_VrE8aKzfRdMzdxKbw&s" title="Autogen" alt="Autogen"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 
 <div align="center">
@@ -119,6 +125,8 @@ My expertise extends across Pytorch, TensorFlow, Langflow, Langchain, Langgraph,
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="postgresql" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/4b917130-00f5-4f0b-842c-634a29600699" title="MongoDB" alt="MongoDB" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/a36bce81-4015-4756-a869-3165c5c8404e" title="RoomDB" alt="RoomDB" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" title="Qdrant" alt="Qdrant" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQG6P9i9HARJvw/company-logo_200_200/company-logo_200_200/0/1697806384366/neo4j_logo?e=2147483647&v=beta&t=-q9174RSLNkmm6NnIm-9zFq7U0JgP0StPPLIvd_Mr6E" title="Neo4j" alt="Neo4j" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
